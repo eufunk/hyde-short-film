@@ -74,6 +74,8 @@ Und genau das ist das Seltsame daran.
 
 Utterson sagt nichts. Sein Blick bleibt auf der Tür.
 
+Dann gehen beide weiter, verschwinden aus dem Bild. Die Kamera bleibt zurück, hält auf der leeren Gasse und der Tür.
+
 SCHNITT ZU SCHWARZ.
 
 **ENDE SEQUENZ 01**

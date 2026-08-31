@@ -62,12 +62,12 @@ Nahaufnahme aus niedrigem Winkel, [Hyde-Beschreibung aus Charakterbibel einfüge
 
 ### Shot 09 — Flashback: Konfrontation
 ```
-Halbnahe Handheld-Einstellung, mehrere Personen umringen einen kleinen, gebeugten Mann in einer regennassen Gasse, zwei Umstehende greifen seinen Arm, während er sich losreißt und sich umdreht, um zurückzustarren, [Charakterbeschreibung Richard Enfield einfügen, jünger im Bild] darunter, hartes Seitenlicht einer Straßenlaterne, tiefe Schatten in den Gesichtern, angespannte Konfrontation
+Halbnahe Handheld-Einstellung, der Moment des Zugriffs selbst: Enfield und zwei Passanten eilen von der Seite heran und greifen im Laufen nach dem Arm eines kleinen, gebeugten Mannes in einer regennassen Gasse, [Charakterbeschreibung Richard Enfield einfügen, jünger im Bild] darunter, hartes Seitenlicht einer Straßenlaterne, tiefe Schatten in den Gesichtern, angespannte Bewegung, noch kein vollständiger Stillstand
 ```
 
 ### Shot 10 — Flashback: Erstes klares Gesicht
 ```
-Halbnahe Einstellung, die zur Nahaufnahme übergeht, [Hyde-Beschreibung aus Charakterbibel einfügen] schließt eine schlichte Stahltür auf, dreht sich für einen kurzen Moment um, sein Gesicht liegt zum ersten Mal vollständig und klar im harten Straßenlaternenlicht, kalter, direkter, unlesbarer Ausdruck, ein subtiles, unbenennbares Falschsein statt eines offensichtlichen Monsterdesigns, dann verschwindet er durch die Tür, Regen, nasses Kopfsteinpflaster
+Beginnt frontal, [Hyde-Beschreibung aus Charakterbibel einfügen] blickt direkt in die Kamera, kalter reglos-starrer Blick, dann einige Schritte, erst danach Wendung von der Kamera weg (Profil/Rückenansicht) beim Gehen die letzten Meter durch die Gasse zur Stahltür (Übergang sichtbar, kein Schnitt direkt vor die bereits erreichte Tür), schließt sie auf, dreht sich für einen kurzen Moment zurück zur Kamera, sein Gesicht liegt zum ersten Mal vollständig und klar im harten Straßenlaternenlicht, kalter, direkter, unlesbarer Ausdruck, ein subtiles, unbenennbares Falschsein statt eines offensichtlichen Monsterdesigns, dann verschwindet er durch die Tür, Regen, nasses Kopfsteinpflaster
 ```
 
 ### Shot 11 — Gegenwart: Der Name fällt
@@ -77,5 +77,5 @@ Halbnahe Einstellung, abwechselnd mit Nahaufnahme, zwei Männer stehen nachts in
 
 ### Shot 12 — Schlussbild
 ```
-Statische, halbweite Einstellung einer dunklen, leeren Gasse bei Nacht, eine alte unbeschriftete Stahltür im Hintergrund, der Blick eines Mannes verweilt auf der Tür, schwaches Straßenlaternenlicht, tiefe umgebende Dunkelheit, stille, ungelöste Reglosigkeit
+Statische, halbweite Einstellung einer dunklen, leeren Gasse bei Nacht, eine alte unbeschriftete Stahltür im Hintergrund, keine Personen mehr im Bild (beide sind bereits aus dem Rahmen gegangen), schwaches Straßenlaternenlicht, tiefe umgebende Dunkelheit, stille, ungelöste Reglosigkeit
 ```

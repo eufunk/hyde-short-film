@@ -46,14 +46,22 @@ Schneller, niedriger Handheld-Whip zum Moment der Kollision an der Straßenecke,
 Statische Nahaufnahme, der Mann bleibt stehen und dreht langsam den Kopf, um auf das weinende Kind hinabzublicken, sein Ausdruck bleibt durchgehend vollkommen reglos und ausdruckslos, ein einzelner langsamer, unblinzelnder Moment, dann dreht er sich um und geht aus dem Bild, keine übertriebene Reaktion
 ```
 
-### Shot 09 — Flashback: Konfrontation (7 s)
+### Shot 09 — Flashback: Konfrontation (9 s)
 ```
-Unruhige, halbnahe Handheld-Einstellung, mehrere Figuren greifen den Arm eines gebeugten Mannes und drehen ihn herum, sein Körper leistet kurz Widerstand, wird dann starr und reglos, er starrt wortlos zurück, scharfe, angespannte Körperhaltung der Gruppe, durchgehend Regen und hartes Laternenlicht
+Unruhige, halbnahe Handheld-Einstellung. Zuerst: Enfield und zwei Passanten eilen von der Seite ins Bild, direkt auf den gebeugten Mann zu, und greifen ihn im Laufen am Arm — dieser Zugriffsmoment ist deutlich sichtbar, keine bereits laufende Konfrontation zu Beginn des Clips. Danach: der Mann leistet kurz Widerstand, wird dann starr und reglos, dreht sich um und starrt wortlos zurück, scharfe, angespannte Körperhaltung der Gruppe, durchgehend Regen und hartes Laternenlicht
 ```
 
-### Shot 10 — Flashback: Erstes klares Gesicht (7 s)
+### Shot 10 — Flashback: Erstes klares Gesicht (9 s)
 ```
-Statische halbnahe Einstellung, ein Schlüssel dreht sich im Türschloss, die Gestalt beginnt hindurchzutreten, hält dann inne und dreht sich für einen bewussten Moment um, sein Gesicht ist zum ersten Mal vollständig beleuchtet und klar sichtbar, ein kalter, direkter, unlesbarer Blick wird für einen Moment gehalten, dann wendet er sich ab und die Tür schließt sich, anhaltender Regen, keine Kamerabewegung
+Der Clip BEGINNT frontal, mit direktem Blick in die Kamera — derselbe kalte, reglose Blick wie am Ende der vorherigen Szene, keine Bewegung im ersten Moment.
+
+DANN: einige Schritte, Gesicht bleibt zunächst noch sichtbar oder wendet sich erst währenddessen langsam ab.
+
+ERST DANACH: vollständige Abwendung von der Kamera, Profil/Rücken sichtbar, während er zügig die letzten Meter durch die Gasse zur Stahltür geht — dieser Weg ist sichtbar zurückgelegt. Leichter Handheld-Folgeschwenk während des Gehens, dann statisch, sobald er die Tür erreicht.
+
+AN DER TÜR: Ein Schlüssel dreht sich im Türschloss, die Gestalt beginnt hindurchzutreten, hält dann inne und dreht sich für einen bewussten Moment um, sein Gesicht ist zum ersten Mal vollständig beleuchtet und klar sichtbar, ein kalter, direkter, unlesbarer Blick wird für einen Moment gehalten, dann wendet er sich ab und die Tür schließt sich, anhaltender Regen
+
+Vermeiden: Clip beginnt mit Rückenansicht oder Profilansicht.
 ```
 
 ### Shot 11 — Gegenwart: Der Name fällt (9 s)
@@ -61,7 +69,9 @@ Statische halbnahe Einstellung, ein Schlüssel dreht sich im Türschloss, die Ge
 Statische Einstellung, die zwischen zwei nahen Bildausschnitten wechselt, eine Figur hält einen langen, ruhigen Blick zu einer Tür außerhalb des Bildes, bevor sie spricht, die andere antwortet mit kurzer, kontrollierter Sprechweise, eine natürliche Pause zwischen den beiden Zeilen, minimale Kopfbewegung, keine Kamerabewegung
 ```
 
-### Shot 12 — Schlussbild (6 s)
+### Shot 12 — Schlussbild (7 s)
 ```
-Statische weite Einstellung, die Gasse bleibt leer und reglos, das schwache Straßenlaternenlicht flackert einmal ganz leicht, hält die volle Dauer auf der Tür und der umgebenden Dunkelheit, keine Kamerabewegung, stille ungelöste Reglosigkeit bis zum Schnitt auf Schwarz
+Statische Einstellung, Kamera bewegt sich nicht. ZUERST: die zwei Männer stehen noch da (Fortsetzung aus Shot 11), wenden sich dann langsam um und gehen gemeinsam von der Kamera weg, tiefer in die Gasse hinein, in Richtung der Dunkelheit — kein seitliches Verlassen des Bildrands, kein plötzliches Verschwinden. Sie werden mit zunehmender Entfernung natürlich kleiner und lösen sich graduell in Schatten und Dunkelheit auf. Die Kamera folgt ihnen NICHT, bleibt exakt an ihrer Position. DANACH: der Vordergrund bleibt leer, die Gasse bleibt reglos, das schwache Straßenlaternenlicht flackert einmal ganz leicht, hält auf der Tür und der umgebenden Dunkelheit, stille ungelöste Reglosigkeit bis zum Schnitt auf Schwarz
+
+Vermeiden: plötzliches Verschwinden, Teleportieren, seitliches Herauslaufen aus dem Bildrand, Kamera folgt den Figuren, Kamera schwenkt oder fährt mit.
 ```

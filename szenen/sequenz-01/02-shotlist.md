@@ -1,6 +1,6 @@
 # Shot List — Sequenz 01 „Die Tür"
 
-Gesamtdauer: ca. 68 Sekunden | 12 Shots (Gegenwart + Flashback)
+Gesamtdauer: ca. 73 Sekunden | 12 Shots (Gegenwart + Flashback) — Shot 09, 10 und 12 wurden nachträglich um Übergangsbewegungen (Zugriffsmoment, Weg zur Tür, Abgang am Ende) verlängert
 
 ---
 
@@ -109,28 +109,28 @@ Gesamtdauer: ca. 68 Sekunden | 12 Shots (Gegenwart + Flashback)
 ---
 
 ### SHOT 09 — Flashback
-- **Dauer:** 7 s
+- **Dauer:** 9 s
 - **Kameraperspektive:** Halbnah, mehrere Personen im Bild
 - **Kamerabewegung:** Handheld, unruhig
-- **Bildbeschreibung:** Enfield (jünger im Bild) und zwei Passanten stellen sich Hyde in den Weg, packen ihn am Arm; er reißt sich los, bleibt stehen, starrt zurück
+- **Bildbeschreibung:** Enfield (jünger im Bild) und zwei Passanten eilen von der Seite ins Bild und greifen Hyde im Laufen am Arm — der Zugriff selbst ist sichtbar, kein harter Schnitt direkt in die bereits laufende Konfrontation; er reißt sich los, bleibt stehen, starrt zurück
 - **Licht:** Hartes Laternenlicht von der Seite, tiefe Schatten in den Gesichtern
 - **Umgebung:** Gasse, Regen weiterhin sichtbar
-- **Handlung:** Konfrontation, Hyde bleibt kalt und wortlos
+- **Handlung:** Ankunft und Zugriff der Passanten, dann Konfrontation, Hyde bleibt kalt und wortlos
 - **Dialog:** PASSANT: „Sie können doch nicht einfach gehen."
-- **Sounddesign:** Aufgeregte Stimmen (Gemurmel), Regen
+- **Sounddesign:** Eilige Schritte, aufgeregte Stimmen (Gemurmel), Regen
 
 ---
 
 ### SHOT 10 — Flashback — SCHLÜSSELMOMENT
-- **Dauer:** 7 s
-- **Kameraperspektive:** Halbnah, dann Close-up
-- **Kamerabewegung:** Statisch, harter Schnitt auf Nahaufnahme beim Umdrehen
-- **Bildbeschreibung:** Hyde geht zur Stahltür, schließt sie auf; bevor er hineingeht, dreht er sich kurz um — sein Gesicht liegt für einen Moment vollständig im Laternenlicht, zum ersten Mal ungeschattet sichtbar; dann verschwindet er, die Tür schlägt zu
+- **Dauer:** 9 s
+- **Kameraperspektive:** Beginnt frontal (Close-up), dann Halbnah/Rückenansicht im Gehen, dann wieder Close-up an der Tür
+- **Kamerabewegung:** Statisch am Anfang, leichter Handheld-Folgeschwenk beim Gehen, dann statisch bei der Tür
+- **Bildbeschreibung:** Clip beginnt mit Hyde frontal, direktem Blick in die Kamera (Fortsetzung aus Shot 09). Erst dann macht er einige Schritte und wendet sich von der Kamera/den Umstehenden ab, geht mit dem Rücken zur Kamera zügig die letzten Meter zur Stahltür — dieser Übergang ist sichtbar, kein harter Schnitt direkt zur bereits wartenden Position an der Tür. Er schließt die Tür auf; bevor er hineingeht, dreht er sich kurz um — sein Gesicht liegt für einen Moment vollständig im Laternenlicht, zum ersten Mal ungeschattet sichtbar; dann verschwindet er, die Tür schlägt zu
 - **Licht:** Hartes Laternenlicht, kurzzeitig volle Ausleuchtung des Gesichts
-- **Umgebung:** Tür, nasses Pflaster
-- **Handlung:** Erster vollständiger Blick auf Hydes Gesicht — unbenennbar falsch, ohne erklärbares Detail
+- **Umgebung:** Gasse zwischen Konfrontationsort und Tür, nasses Pflaster
+- **Handlung:** Abgang von der Konfrontation zur Tür, dann erster vollständiger Blick auf Hydes Gesicht — unbenennbar falsch, ohne erklärbares Detail
 - **Dialog:** —
-- **Sounddesign:** Schlüssel im Schloss, Tür knarrt und schlägt zu, Regen
+- **Sounddesign:** Schritte auf nassem Pflaster, Schlüssel im Schloss, Tür knarrt und schlägt zu, Regen
 
 ---
 
@@ -148,12 +148,12 @@ Gesamtdauer: ca. 68 Sekunden | 12 Shots (Gegenwart + Flashback)
 ---
 
 ### SHOT 12 — Gegenwart — SCHLUSSBILD
-- **Dauer:** 6 s
+- **Dauer:** 7 s
 - **Kameraperspektive:** Halbnah/Weit auf die Tür
-- **Kamerabewegung:** Statisch, hält
-- **Bildbeschreibung:** Utterson sagt nichts, sein Blick bleibt auf der Tür; die Kamera hält auf Tür und Gasse
+- **Kamerabewegung:** Statisch, bleibt zurück, folgt den Figuren nicht
+- **Bildbeschreibung:** Utterson und Enfield stehen zunächst noch da (Fortsetzung aus Shot 11), dann wenden sie sich ab und gehen gemeinsam von der Kamera weg, tiefer in die Gasse hinein, werden mit der Entfernung kleiner und lösen sich in Schatten und Dunkelheit auf (kein seitliches Verlassen des Bildrands, kein plötzliches Verschwinden) — die Kamera bewegt sich nicht mit, bleibt zurück; danach leere Gasse, Tür im Hintergrund
 - **Licht:** Schwaches Laternenlicht, Dunkelheit ringsum
 - **Umgebung:** Leere Gasse
-- **Handlung:** Kein weiteres Wort, kein weiteres Bild
+- **Handlung:** Beide Figuren entfernen sich in die Tiefe des Raums und verschwinden allmählich in der Dunkelheit, Kamera hält allein auf der leeren Gasse und der Tür
 - **Dialog:** —
-- **Sounddesign:** Wind, dann Stille, sehr leiser tiefer Ton bis zum Schnitt auf Schwarz
+- **Sounddesign:** Sich entfernende Schritte, Wind, dann Stille, sehr leiser tiefer Ton bis zum Schnitt auf Schwarz

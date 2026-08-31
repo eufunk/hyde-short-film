@@ -1,7 +1,7 @@
 # Sequenz 01 — Die Tür
 
 **Film:** HYDE
-**Länge Sequenz:** ca. 70 Sekunden (Zielrahmen 60–90 s)
+**Länge Sequenz:** ca. 73 Sekunden (Zielrahmen 60–90 s)
 **Ort:** Gegenwart — Gasse hinter dem Institutsgebäude in Leipzig (siehe [`schauplaetze/institutsgebaeude.md`](../../schauplaetze/institutsgebaeude.md)); Flashback — dieselbe Gasse, einige Wochen zuvor
 **Zeit:** Durchgehend Nacht — Gegenwart und Flashback
 **Wetter:** Gegenwart: trocken, Regen liegt spürbar in der Luft. Flashback: leichter Regen, nasses Pflaster
