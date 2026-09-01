@@ -86,12 +86,12 @@ Gesamtdauer: ca. 73 Sekunden | 12 Shots (Gegenwart + Flashback) — Shot 09, 10 
 - **Dauer:** 3 s
 - **Kameraperspektive:** Niedrig, schneller Ausschnitt
 - **Kamerabewegung:** Kurzer Handheld-Whip, sofortiger Schnitt nach Kontakt
-- **Bildbeschreibung:** Beide stoßen an der Straßenecke ungewollt zusammen — Moment der Berührung nur angedeutet, nicht explizit gezeigt; das Mädchen fällt, Hyde tritt im Weitergehen über sie hinweg, ohne sein Tempo zu ändern oder anzuhalten
+- **Bildbeschreibung:** Beide stoßen an der Straßenecke ungewollt zusammen — Moment der Berührung nur angedeutet, nicht explizit gezeigt; das Mädchen fällt zu Boden, direkt in Hydes Weg. Sein Fuß setzt sichtbar über/neben ihrem am Boden liegenden Körper auf, während er ohne Tempowechsel weitergeht — sein Blick bleibt konstant nach vorn gerichtet, er sieht kein einziges Mal nach unten zu ihr
 - **Licht:** Hartes Laternenlicht
 - **Umgebung:** Nasses Pflaster, Straßenecke
-- **Handlung:** Unabsichtliche Kollision an der Kreuzung, Mädchen fällt, Hyde tritt über sie hinweg
+- **Handlung:** Unabsichtliche Kollision an der Kreuzung, Mädchen fällt, Hyde tritt sichtbar über ihren Körper hinweg, ohne sie anzusehen
 - **Dialog:** —
-- **Sounddesign:** Kurzer, dumpfer Kontaktton, Aufschrei, sofortige Stille
+- **Sounddesign:** Kurzer, dumpfer Kontaktton, schmerzerfülltes Stöhnen des Mädchens, dann sofortige Stille
 
 ---
 

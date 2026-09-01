@@ -32,7 +32,7 @@ EDWARD HYDE löst sich aus einer Seitengasse — klein, kompakt, geht zügig und
 
 Ein junges MÄDCHEN (ca. 8) rennt aus einer Seitenstraße in dieselbe Kreuzung, aus deren Gegenrichtung Hyde über die Hauptstraße kommt. Keiner bemerkt den anderen rechtzeitig.
 
-Sie stoßen an der Straßenecke zusammen. Das Mädchen fällt. Hyde tritt im Weitergehen über sie hinweg, ohne anzuhalten.
+Sie stoßen an der Straßenecke zusammen. Das Mädchen fällt zu Boden. Hyde tritt im Weitergehen über ihren am Boden liegenden Körper hinweg — sein Blick bleibt starr nach vorn gerichtet, er sieht nicht einmal nach unten. Sie stöhnt vor Schmerz.
 
 Das Mädchen schreit auf, weint. Hyde bleibt stehen. Dreht sich zu ihr um. Sieht sie an.
 

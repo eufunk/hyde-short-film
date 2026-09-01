@@ -1,13 +1,10 @@
 # ============================================
 # HYDE — projektspezifisch (generierte Medien)
 # ============================================
-# Große KI-generierte Rohmedien nicht versionieren.
-# .gitkeep-Dateien bleiben erhalten, damit die Ordnerstruktur im Repo sichtbar bleibt.
-assets/bilder/*
-assets/video/*
-assets/audio/*
-assets/renders/*
-!assets/**/.gitkeep
+# Große KI-generierte Rohmedien nicht versionieren — der ganze Ordner ist
+# ausgeschlossen, da nichts darin je versioniert wird. Ordnerstruktur besteht
+# nur lokal, siehe ProjektGuide.md.
+assets/
 
 # Gängige Roh-Medienformate (falls außerhalb von assets/ abgelegt)
 *.mp4

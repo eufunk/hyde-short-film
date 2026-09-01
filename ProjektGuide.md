@@ -16,7 +16,8 @@ Der Film wird sequenzweise entwickelt: Jede Sequenz bekommt einen eigenen Untero
 | [charakterbibel/](charakterbibel/) | Konsistenzbeschreibungen aller Figuren — projektweit gültig, wird bei jedem Auftritt einer Figur referenziert. |
 | [schauplaetze/](schauplaetze/) | Wie `charakterbibel/`, aber für wiederkehrende Orte statt Figuren. |
 | [prompts/](prompts/) | Prompt-Bausteine, die für den ganzen Film gelten, nicht nur eine Sequenz (aktuell: Negative Prompts). |
-| [assets/](assets/) | Ablage für generierte Bilder/Videos/Audio/Renders. Wird von Git ignoriert (siehe [.gitignore](.gitignore)) — nur die Ordnerstruktur bleibt über `.gitkeep`-Dateien erhalten. |
+| `assets/` | Ablage für generierte Bilder/Videos/Audio/Renders. Der ganze Ordner wird von Git ignoriert (siehe [.gitignore](.gitignore)) — existiert nur lokal, kein Repo-Link, da nichts darin je versioniert wird. |
+| [showcase/](showcase/) | Kuratierte, bewusst versionierte Bilder für README & Co. — Gegenstück zu `assets/`: alles hier landet im Repo und ist öffentlich sichtbar. |
 
 ## 3. `szenen/` — wie eine Sequenz aufgebaut ist
 
@@ -62,7 +63,7 @@ Gleiches Prinzip wie die Charakterbibel, nur für Orte. Aktuell eine Datei:
 
 ## 7. `assets/` — wohin generierte Dateien kommen
 
-Vier Unterordner: `bilder/`, `video/`, `audio/`, `renders/`. Hier werden die tatsächlich generierten Ergebnisse abgelegt, wenn die Prompts aus `szenen/*/03-bildprompts.md` und `04-videoprompts.md` in einem AI-Tool ausgeführt werden. Der Inhalt dieser Ordner wird von Git ignoriert (siehe [.gitignore](.gitignore), Abschnitt "HYDE — projektspezifisch") — nur die Ordnerstruktur selbst bleibt über `.gitkeep`-Dateien im Repo sichtbar.
+Vier Unterordner: `bilder/`, `video/`, `audio/`, `renders/`. Hier werden die tatsächlich generierten Ergebnisse abgelegt, wenn die Prompts aus `szenen/*/03-bildprompts.md` und `04-videoprompts.md` in einem AI-Tool ausgeführt werden. Der komplette `assets/`-Ordner wird von Git ignoriert (siehe [.gitignore](.gitignore), Abschnitt "HYDE — projektspezifisch") — er existiert nur lokal auf deinem Rechner, nicht im Repository. Falls du einzelne Bilder öffentlich zeigen willst (z. B. im README), lege sie stattdessen in [`showcase/`](showcase/) ab — dieser Ordner wird normal versioniert.
 
 ## 8. Workflow: eine neue Sequenz anlegen
 

@@ -52,7 +52,7 @@ Niedrige Handheld-Einstellung auf Augenhöhe eines Kindes, ein junges Mädchen r
 
 ### Shot 07 — Flashback: Kollision
 ```
-Niedrige, schnelle Handheld-Einstellung, bewegungsunscharfer, nicht-grafischer Moment des Kontakts, als beide Figuren an der Straßenecke ungewollt zusammenstoßen, das Mädchen fällt zu Boden, die gebeugte Hyde-Gestalt tritt im Weitergehen über sie hinweg, ohne ihr Tempo zu verlangsamen oder anzuhalten — kein aktives Stoßen oder Greifen, nur der Kontakt der Kollision selbst, hartes Straßenlaternenlicht, Regen, sofortiger Schnitt weg, keine expliziten Details
+Niedrige, schnelle Handheld-Einstellung, bewegungsunscharfer, nicht-grafischer Moment des Kontakts, als beide Figuren an der Straßenecke ungewollt zusammenstoßen, das Mädchen fällt zu Boden direkt in Hydes Weg — sein Fuß setzt sichtbar über bzw. unmittelbar neben ihrem am Boden liegenden Körper auf, während er im selben Tempo weitergeht, sein Blick bleibt die ganze Zeit starr nach vorn gerichtet, er blickt kein einziges Mal nach unten zu ihr, kein aktives Stoßen oder Greifen, nur der Kontakt der Kollision und das Übertreten selbst, hartes Straßenlaternenlicht, Regen, sofortiger Schnitt weg, keine expliziten Details
 ```
 
 ### Shot 08 — Flashback: Der leere Blick

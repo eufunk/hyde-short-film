@@ -38,7 +38,9 @@ Niedrige Handheld-Einstellung, eine Kinderfigur rennt aus einer Seitenstraße di
 
 ### Shot 07 — Flashback: Kollision (3 s)
 ```
-Schneller, niedriger Handheld-Whip zum Moment der Kollision an der Straßenecke, kurze Bewegungsunschärfe, als beide Figuren aus ihren jeweiligen Richtungen ungewollt zusammenstoßen, das Mädchen fällt, die gebeugte Hyde-Gestalt tritt im Weitergehen über sie hinweg, ohne stehenzubleiben oder ihr Tempo zu ändern, sofortiger Schnitt weg nach dem Kontakt, keine expliziten Details, keine Zeitlupe, anhaltender Regen
+Niedrige Handheld-Einstellung. Hyde befindet sich bereits unmittelbar neben dem Mädchen, nur noch einen Schritt entfernt — keine lange Anlaufstrecke, kein Richtungswechsel, er bewegt sich durchgehend geradeaus in dieselbe Richtung. Innerhalb der ersten Sekunde: der Aufprall geschieht, das Mädchen fällt zu Boden und stöhnt vor Schmerz, Hyde überschreitet sie im selben Moment, sein Fuß setzt sichtbar über bzw. unmittelbar neben ihrem Körper auf, ohne Gehrichtung zu ändern, ohne stehenzubleiben, ohne nach unten zu blicken, geht im gleichen Tempo geradeaus weiter, sofortiger Schnitt weg nach dem Kontakt, keine expliziten Details, keine Zeitlupe, anhaltender Regen
+
+Vermeiden: Hyde ändert die Richtung, Mädchen fällt neben Hyde ohne Körperkontakt, Hyde blickt nach unten zu ihr, keine hörbare Reaktion des Mädchens.
 ```
 
 ### Shot 08 — Flashback: Der leere Blick (5 s)
